@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCard", "Assembly-CSharp.csproj", "{B1CEAFF5-8CC5-BDAF-0519-708D833B01A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCard", "Assembly-CSharp-Editor.csproj", "{D82C88F7-F6BF-C8D5-C6BD-B0736BECEEC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1CEAFF5-8CC5-BDAF-0519-708D833B01A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CEAFF5-8CC5-BDAF-0519-708D833B01A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CEAFF5-8CC5-BDAF-0519-708D833B01A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CEAFF5-8CC5-BDAF-0519-708D833B01A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D82C88F7-F6BF-C8D5-C6BD-B0736BECEEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82C88F7-F6BF-C8D5-C6BD-B0736BECEEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82C88F7-F6BF-C8D5-C6BD-B0736BECEEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82C88F7-F6BF-C8D5-C6BD-B0736BECEEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
